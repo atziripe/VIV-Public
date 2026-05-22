@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/viv"><img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=apple" alt="App Store"/></a>
-  <a href="https://play.google.com/store/apps/details?id=com.viv"><img src="https://img.shields.io/badge/Google%20Play-Download-green?logo=google-play" alt="Google Play"/></a>
+  <a href="https://testflight.apple.com/join/4k4jgCmB"><img src="https://img.shields.io/badge/App%20Store-Download-blue?logo=apple" alt="TestFlight"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.viv](https://play.google.com/apps/internaltest/4701483169329513527"><img src="https://img.shields.io/badge/Google%20Play-Download-green?logo=google-play" alt="Google Play"/></a>
   <img src="https://img.shields.io/badge/version-1.0.0-orange" alt="Version"/>
   <img src="https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey" alt="Platform"/>
 </p>
@@ -37,8 +37,8 @@ VIV is a mobile wellness app that combines artificial intelligence with personal
 
 | Platform | Link |
 |----------|------|
-| iOS      | [App Store](https://apps.apple.com/app/viv) |
-| Android  | [Google Play](https://play.google.com/store/apps/details?id=com.viv) |
+| iOS      | [TestFlight](https://testflight.apple.com/join/4k4jgCmB) |
+| Android  | [Google Play Testing](https://play.google.com/apps/internaltest/4701483169329513527) |
 
 ## 💬 Support & Feedback
 
