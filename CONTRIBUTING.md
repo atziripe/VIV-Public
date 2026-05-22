@@ -23,7 +23,7 @@ Thanks for your interest in improving VIV! Although the source code is private, 
 
 ## 💬 Joining the Community
 
-- Join [Discussions](../../discussions) to share ideas, questions, or experiences with the app.
+- Join [Discussions](https://chat.whatsapp.com/K67j5SR5A6Q8AlE52kpWDm?mode=gi_t) to share ideas, questions, or experiences with the app.
 - Help answer other users' questions if you can.
 
 ---
