@@ -26,10 +26,6 @@ Thanks for your interest in improving VIV! Although the source code is private, 
 - Join [Discussions](../../discussions) to share ideas, questions, or experiences with the app.
 - Help answer other users' questions if you can.
 
-## 📋 Code of Conduct
-
-This project follows a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold it.
-
 ---
 
-For urgent technical support, reach us at **support@viv.app**.
+For urgent technical support, reach us at **support@muzoholding.com**.
