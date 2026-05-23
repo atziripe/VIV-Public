@@ -30,14 +30,14 @@ VIV is a mobile wellness app that combines artificial intelligence with personal
 - **History & progress** — visualize your evolution week by week
 
 ## 📱 Screenshots
-
+<p align="center">
 <img src="assets/1.jpeg" width="120"/>
 <img src="assets/2.jpeg" width="120"/>
 <img src="assets/3.jpeg" width="120"/>
 <img src="assets/4.jpeg" width="120"/>
 <img src="assets/5.jpeg" width="120"/>
 <img src="assets/6.jpeg" width="120"/>
-
+</p>
 
 ## 🚀 Download
 
